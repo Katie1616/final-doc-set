@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-## &nbsp; ENGL 396
+## &nbsp; MyFavoriteAlbums
 
 * [Home](README.md)
 

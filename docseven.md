@@ -1,6 +1,6 @@
 # Page Design
 
-> How to views each page in the app and how to interact with each one. 
+> How to views each page in the app and interact with each one. 
 
 | Section             | Data                              | Display | Purpose                                                                                   | Tools                                |
 |---------------------|-----------------------------------|---------|-------------------------------------------------------------------------------------------|--------------------------------------|
