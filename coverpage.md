@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# MyFavoritAlbums Documentation
+# MyFavoriteAlbums Documentation
 
 > Katie Hulst
 
